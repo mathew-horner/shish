@@ -6,9 +6,13 @@ This is an umbrella library that intends to make Cargo scripts slightly more erg
 
 This library depends on several crates:
 
-- `anyhow` - for error handling.
-- `clap` - for argument parsing.
-- `duct` - for command invocation.
+- [`anyhow`] - for error handling.
+- [`clap`] - for argument parsing.
+- [`duct`] - for command invocation.
+
+[`anyhow`]: https://docs.rs/anyhow/1.0/anyhow/
+[`clap`]: https://docs.rs/clap/4.6/clap/
+[`duct`]: https://docs.rs/duct/1.1/duct/
 
 ## Usage
 
