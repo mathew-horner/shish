@@ -2,6 +2,8 @@
 name = "shish-lib"
 version = "0.1.0"
 edition = "2024"
+description = "A small library that re-exports common utilities for Cargo scripts."
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0"
